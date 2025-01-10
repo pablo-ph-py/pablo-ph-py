@@ -15,7 +15,7 @@
 - 🎓 Certificaciones en inteligencia artificial y Python.  
 - 📫 Puedes contactarme en: **pabloph0099@gmail.com**
 
-<hr>
+
 
 
 <div align="center"> 
