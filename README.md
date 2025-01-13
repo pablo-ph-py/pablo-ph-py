@@ -2,7 +2,7 @@
 
 # 👋 ¡Bienvenido a mi perfil de GitHub!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Soy+Pablo+Pérez+Holgado...;Programador+en+Python...;Administrador+de+Sistemas...;Apasionado+por+la+I.A.+y+la+Tecnología..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Soy+Pablo+Pérez+Holgado...;Programador+en+Python...;Administrador+de+Sistemas...;Formación+en+I.A...."/>
 
 <p>- <i>Programador especializado en Python y administrador de sistemas en red con experiencia en inteligencia artificial. Para mí la programación es un desafío, un juego que disfruto resolviendo. Soy proactivo, me adapto fácilmente a nuevas tecnologías y estoy en constante aprendizaje para seguir mejorando.</i></p>
 
